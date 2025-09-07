@@ -1,1 +1,11 @@
-["articles", "works"]
+[
+    {
+        "path": "/articles",
+        "list": [
+            {
+                "title": "技術分享 - 你推多久沒開台了？",
+                "path": "/about-last-live.json"
+            }
+        ]
+    }
+]
